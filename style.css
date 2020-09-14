@@ -1,0 +1,39 @@
+.audio-controls {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    height: 5vw;
+    align-items: center;
+}
+
+#timeBar {
+    width: 75%;
+}
+
+#volumeBar {
+    width: 25%;
+}
+
+#speedBar {
+    width: 25%;
+}
+
+#backButton {
+    width: 5%;
+}
+
+#toggleButton {
+    width: 5%;
+}
+
+#forwButton {
+    width: 5%;
+}
+
+#aButton {
+    width: 5%;
+}
+
+#bButton {
+    width: 5%;
+}
